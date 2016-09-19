@@ -16,9 +16,4 @@ get '/' do
   </p>
 EOS
 
-endrequire 'sinatra'
-
-get '/' do
-  "<H1>Hello World!</H1>"
-
 end
