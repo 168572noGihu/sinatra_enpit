@@ -1,0 +1,2 @@
+source 'https://rubygams.org'
+gem 'sinatra'
